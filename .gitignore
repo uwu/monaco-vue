@@ -1,0 +1,4 @@
+node_modules
+.idea
+# we use pnpm smh
+package-lock.json
