@@ -1,6 +1,7 @@
 # Monaco for Vue
 
 This is a component that wraps Microsoft's great Monaco editor for Vue.
+(yes another one) (this one is better i promise)
 
 All props are reactive except for `otherCfg`, which is only assigned at first render.
 
@@ -13,7 +14,7 @@ by name.
 ```vue
 <script setup lang="ts">
 import {ref} from "vue";
-import Monaco from "monaco-vue";
+import Monaco from "simple-monaco-vue";
 
 let value = ref("");
 </script>
